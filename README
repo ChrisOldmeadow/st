@@ -1,3 +1,20 @@
+Patched ST
+----------
+
+This is my build of the suckless simple terminal. It includes the following
+patches:
+
+* dracular colour theme
+* alpha
+* boxdraw
+* copyurl
+* scrollback 
+* scrollback-mouse
+
+Uses the MesloLGS NF font, with JoyPixels for emoji support
+
+
+
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
