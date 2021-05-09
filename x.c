@@ -157,13 +157,9 @@ static void xresize(int, int);
 static void xhints(void);
 static int xloadcolor(int, const char *, Color *);
 static int xloadfont(Font *, FcPattern *);
-<<<<<<< HEAD
-static void xloadfonts(char *, double);
+static void xloadfonts(const char *, double);
 static int xloadsparefont(FcPattern *, int);
 static void xloadsparefonts(void);
-=======
-static void xloadfonts(const char *, double);
->>>>>>> 4536f46cfff50c66a115755def0155d8e246b02f
 static void xunloadfont(Font *);
 static void xunloadfonts(void);
 static void xsetenv(void);
