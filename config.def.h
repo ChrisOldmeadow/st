@@ -5,11 +5,11 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "MesloLGS NF:pixelsize=14:antialias=true:autohint=true";
+static char *font = "JetBrains Mono NerdFont:pixelsize=18:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-	"JoyPixels:pixelsize=10:antialias=true:autohint=true",
-	"Hack Nerd Font Mono:pixelsize=11:antialias=true:autohint=true", 
+	"JoyPixels:pixelsize=18:antialias=true:autohint=true",
+	"Hack Nerd Font Mono:pixelsize=14:antialias=true:autohint=true", 
 };
 static int borderpx = 2;
 
