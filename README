@@ -10,7 +10,7 @@ patches:
 * copyurl
 * scrollback 
 * scrollback-mouse
-
+* ligatures
 Uses the MesloLGS NF font, with JoyPixels for emoji support
 
 
