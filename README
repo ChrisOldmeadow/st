@@ -11,7 +11,10 @@ patches:
 * scrollback 
 * scrollback-mouse
 * ligatures
-Uses the MesloLGS NF font, with JoyPixels for emoji support
+
+Uses the JetBrains Mono font, with JoyPixels for emoji support
+
+
 
 
 
